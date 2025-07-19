@@ -18,7 +18,6 @@
     {
         static void Main()
         {
-
             #region Q1
             //Console.Write("Enter X for Point 1: ");
             //double x1 = Convert.ToDouble(Console.ReadLine());
